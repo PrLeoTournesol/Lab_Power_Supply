@@ -4,7 +4,7 @@
 
 The goal is to create an inexpensive laboratory power supply with stable voltage and medium/high current output. I will use an old but working power supply, the _API2PC23_ from IBM. Due to its peculiar shape, the 3D files I created might not be suited for every power supplies but can be easily adapted.   
 
-![API2PC23](/photos/PSU.JPG)
+![API2PC23](/Photos/PSU.JPG)
 
 ## Bill of  materials
 | Name         | N°  | Link                                                | Price (€)   | Desc.             |
@@ -58,7 +58,7 @@ The first step is to divide the cables comming out of the power supply depending
 
 I also added the load resistor between +5V and GND.
 
-![Wires](photos/Wires.JPG)
+![Wires](Photos/Wires.JPG)
 
 Every pack of wire will be connected together.
 
@@ -66,7 +66,7 @@ Every pack of wire will be connected together.
 
 Prepare the different cables. I used the type 2 connectors with a pair of pliers adapted for those and simply connected the cables to the tabs on the banana plugs and fuse holders.
 
-![Connectors](photos/Connectors.JPG)
+![Connectors](Photos/Connectors.JPG)
 
 To connect the display a recommend following the schematics. For this I soldered the wires together with the provided connectors. 
 If the wires are not the same as the one I used, please refer to the documentation of your display to avoid damaging it.
@@ -74,7 +74,7 @@ If the wires are not the same as the one I used, please refer to the documentati
 ## Step 3
 Once everything is prepared and the housing 3d printed, it is assembly time !
 
-![Front panel](photos/Front_panel_connection.JPG)
+![Front panel](Photos/Front_panel_connection.JPG)
 (Do not refer to the picture for wiring)
 
 I then glued the front panel to the rest of the build. If you don't have clamps you can use rubber bands to hold everything in place while the glue dries. 
@@ -82,7 +82,7 @@ I then glued the front panel to the rest of the build. If you don't have clamps 
 ## Step 4
 Enjoy the final product !
 
-![Final product](photos/Final_Product.JPG)
+![Final product](Photos/Final_Product.JPG)
 
 ## Additionnal features
 
