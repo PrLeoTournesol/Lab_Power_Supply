@@ -4,19 +4,19 @@
 
 The goal is to create an inexpensive laboratory power supply with stable voltage and medium/high current output. I will use an old but working power supply, the _API2PC23_ from IBM. Due to its peculiar shape, the 3D files I created might not be suited for every power supplies but can be easily adapted.   
 
-![API2PC23](/Photos/PSU.JPG)
+![API2PC23](/Photos/PSU_rs.JPG)
 
 ## Bill of  materials
-| Name         | N°  | Link                                                | Price (€)   | Desc.             |
-|--------------|:---:|-----------------------------------------------------|:-----------:|-------------------|
-| ATX PSU  | 1  |      |    | Recycled power supply       |
-| Load Resistor    | 1  | [Link](https://aliexpress.com/item/1005002006427812.html)        | $\sim 3$    | $50W\ 6\Omega\ $  Load Resistor    |
-| Button        | 1  | [Link](https://aliexpress.com/item/32840360301.html)     | $\sim 2$  | Buttons + caps |
-| Display | 3 | [Link](https://aliexpress.com/item/1005006160585749.html) | $\sim 5$ | Display for voltage & current  |
-| Banana plug  | 3x2 | [Link](https://aliexpress.com/item/1005005988853903.html)  | $\sim 2$  | Banana plugs (link for 10) |
-| Fuse holder  | 3 | [Link](https://aliexpress.com/item/4000126701820.html)  | $\sim 2.5$  | (link for 10) |
-| Fuse  | 3 | [Link](https://aliexpress.com/item/1005004114014014.html)  | $\sim 4$  | 3x10A $\quad $(link for batch) |
-| USB port  | 1 | [Link](https://aliexpress.com/item/1005004550370249.html)  | $\sim 7$  | $60W\ $ USB C (PD) + A (QC 3.0) |
+| Name             | N°  | Link                                                      | Price (€) | Desc.                          |
+|------------------|:---:|-----------------------------------------------------------|:---------:|--------------------------------|
+| ATX PSU          | 1   |                                                           |           | Recycled power supply          |
+| Load Resistor    | 1   | [Link](https://aliexpress.com/item/1005002006427812.html) | $\sim 3$  | $50W\ 6\Omega\ $  Load Resistor|
+| Button           | 1   | [Link](https://aliexpress.com/item/32840360301.html)      | $\sim 2$  | Buttons + caps                 |
+| Display          | 3   | [Link](https://aliexpress.com/item/1005006160585749.html) | $\sim 5$  | Display for voltage & current  |
+| Banana plug      | 3x2 | [Link](https://aliexpress.com/item/1005005988853903.html) | $\sim 2$  | Banana plugs (link for 10)     |
+| Fuse holder      | 3   | [Link](https://aliexpress.com/item/4000126701820.html)    | $\sim 2.5$| (link for 10)                  |
+| Fuse             | 3   | [Link](https://aliexpress.com/item/1005004114014014.html) | $\sim 4$  | 3x10A $\quad $(link for batch) |
+| USB port         | 1   | [Link](https://aliexpress.com/item/1005004550370249.html) | $\sim 7$  | $60W\ $ USB C (PD) + A (QC 3.0)|
 
 __Total price__ : $\ \sim 25.5\ €$
 
@@ -58,7 +58,7 @@ The first step is to divide the cables comming out of the power supply depending
 
 I also added the load resistor between +5V and GND.
 
-![Wires](Photos/Wires.JPG)
+![Wires](Photos/Wires_rs.JPG)
 
 Every pack of wire will be connected together.
 
@@ -66,7 +66,7 @@ Every pack of wire will be connected together.
 
 Prepare the different cables. I used the type 2 connectors with a pair of pliers adapted for those and simply connected the cables to the tabs on the banana plugs and fuse holders.
 
-![Connectors](Photos/Connectors.JPG)
+![Connectors](Photos/Connectors_rs.JPG)
 
 To connect the display a recommend following the schematics. For this I soldered the wires together with the provided connectors. 
 If the wires are not the same as the one I used, please refer to the documentation of your display to avoid damaging it.
@@ -74,7 +74,7 @@ If the wires are not the same as the one I used, please refer to the documentati
 ## Step 3
 Once everything is prepared and the housing 3d printed, it is assembly time !
 
-![Front panel](Photos/Front_panel_connection.JPG)
+![Front panel](Photos/Front_panel_connection_rs.JPG)
 (Do not refer to the picture for wiring)
 
 I then glued the front panel to the rest of the build. If you don't have clamps you can use rubber bands to hold everything in place while the glue dries. 
@@ -82,7 +82,7 @@ I then glued the front panel to the rest of the build. If you don't have clamps 
 ## Step 4
 Enjoy the final product !
 
-![Final product](Photos/Final_Product.JPG)
+![Final product](Photos/Final_Product_rs.JPG)
 
 ## Additionnal features
 
