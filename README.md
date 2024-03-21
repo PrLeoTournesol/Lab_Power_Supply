@@ -10,13 +10,13 @@ The goal is to create an inexpensive laboratory power supply with stable voltage
 | Name             | N°  | Link                                                      | Price (€) | Desc.                          |
 |------------------|:---:|-----------------------------------------------------------|:---------:|--------------------------------|
 | ATX PSU          | 1   |                                                           |           | Recycled power supply          |
-| Load Resistor    | 1   | [Link](https://aliexpress.com/item/1005002006427812.html) | $\sim 3$  | $50W\ 6\Omega\ $  Load Resistor|
+| Load Resistor    | 1   | [Link](https://aliexpress.com/item/1005002006427812.html) | $\sim 3$  | $50W\ 6\Omega $  Load Resistor|
 | Button           | 1   | [Link](https://aliexpress.com/item/32840360301.html)      | $\sim 2$  | Buttons + caps                 |
 | Display          | 3   | [Link](https://aliexpress.com/item/1005006160585749.html) | $\sim 5$  | Display for voltage & current  |
 | Banana plug      | 3x2 | [Link](https://aliexpress.com/item/1005005988853903.html) | $\sim 2$  | Banana plugs (link for 10)     |
 | Fuse holder      | 3   | [Link](https://aliexpress.com/item/4000126701820.html)    | $\sim 2.5$| (link for 10)                  |
 | Fuse             | 3   | [Link](https://aliexpress.com/item/1005004114014014.html) | $\sim 4$  | 3x10A $\quad $(link for batch) |
-| USB port         | 1   | [Link](https://aliexpress.com/item/1005004550370249.html) | $\sim 7$  | $60W\ $ USB C (PD) + A (QC 3.0)|
+| USB port         | 1   | [Link](https://aliexpress.com/item/1005004550370249.html) | $\sim 7$  | $60W $ USB C (PD) + A (QC 3.0)|
 
 __Total price__ : $\ \sim 25.5\ €$
 
@@ -70,11 +70,14 @@ Prepare the different cables. I used the type 2 connectors with a pair of pliers
 
 To connect the display a recommend following the schematics. For this I soldered the wires together with the provided connectors. 
 If the wires are not the same as the one I used, please refer to the documentation of your display to avoid damaging it.
+Furthermore, I connected all the displays to the +5V as a main power supply as the +3.3V would not have been enough to power them.     
+To turn on the power supply, the green wire (POWER_ON/OFF) needs to be shorted to GND, hence the button.
 
 ## Step 3
 Once everything is prepared and the housing 3d printed, it is assembly time !
 
 ![Front panel](Photos/Front_panel_connection_rs.jpg)
+
 (Do not refer to the picture for wiring)
 
 I then glued the front panel to the rest of the build. If you don't have clamps you can use rubber bands to hold everything in place while the glue dries. 
