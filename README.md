@@ -10,7 +10,7 @@ The goal is to create an inexpensive laboratory power supply with stable voltage
 | Name             | N°  | Link                                                      | Price (€) | Desc.                          |
 |------------------|:---:|-----------------------------------------------------------|:---------:|--------------------------------|
 | ATX PSU          | 1   |                                                           |           | Recycled power supply          |
-| Load Resistor    | 1   | [Link](https://aliexpress.com/item/1005002006427812.html) | $\sim 3$  | 50W 6$\Omega $  Load Resistor|
+| Load Resistor    | 1   | [Link](https://aliexpress.com/item/1005002006427812.html) | $\sim 3$  | 50W 6$\mathsf{k\Omega}$  Load Resistor|
 | Button           | 1   | [Link](https://aliexpress.com/item/32840360301.html)      | $\sim 2$  | Buttons + caps                 |
 | Display          | 3   | [Link](https://aliexpress.com/item/1005006160585749.html) | $\sim 5$  | Display for voltage & current  |
 | Banana plug      | 3x2 | [Link](https://aliexpress.com/item/1005005988853903.html) | $\sim 2$  | Banana plugs (link for 10)     |
