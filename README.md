@@ -40,9 +40,9 @@ The first step is to divide the cables comming out of the power supply depending
 
 - Used cables :
     - Black &emsp; &emsp; &rarr; &emsp; GND
-    - Yellow &emsp; &ensp; &rarr; &emsp; +12V
-    - Red &emsp; &emsp; &nbsp; &rarr; &emsp; +5V
-    - Orange &ensp; &nbsp;&nbsp; &rarr; &emsp; +3.3V
+    - Yellow &emsp; &ensp; &rarr; &emsp; +12V  @ 10A
+    - Red &emsp; &emsp; &nbsp; &rarr; &emsp; +5V @ 10A
+    - Orange &ensp; &nbsp;&nbsp; &rarr; &emsp; +3.3V @ 4A
     - Green &emsp;&emsp; &rarr; &emsp; Power on/off
 
 
