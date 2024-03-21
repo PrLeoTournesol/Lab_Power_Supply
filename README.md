@@ -10,13 +10,13 @@ The goal is to create an inexpensive laboratory power supply with stable voltage
 | Name             | N°  | Link                                                      | Price (€) | Desc.                          |
 |------------------|:---:|-----------------------------------------------------------|:---------:|--------------------------------|
 | ATX PSU          | 1   |                                                           |           | Recycled power supply          |
-| Load Resistor    | 1   | [Link](https://aliexpress.com/item/1005002006427812.html) | $\sim 3$  | $50W$ 6$\Omega$  Load Resistor|
+| Load Resistor    | 1   | [Link](https://aliexpress.com/item/1005002006427812.html) | $\sim 3$  | 50W 6$\Omega $  Load Resistor|
 | Button           | 1   | [Link](https://aliexpress.com/item/32840360301.html)      | $\sim 2$  | Buttons + caps                 |
 | Display          | 3   | [Link](https://aliexpress.com/item/1005006160585749.html) | $\sim 5$  | Display for voltage & current  |
 | Banana plug      | 3x2 | [Link](https://aliexpress.com/item/1005005988853903.html) | $\sim 2$  | Banana plugs (link for 10)     |
 | Fuse holder      | 3   | [Link](https://aliexpress.com/item/4000126701820.html)    | $\sim 2.5$| (link for 10)                  |
 | Fuse             | 3   | [Link](https://aliexpress.com/item/1005004114014014.html) | $\sim 4$  | 3x10A $\quad $(link for batch) |
-| USB port         | 1   | [Link](https://aliexpress.com/item/1005004550370249.html) | $\sim 7$  | $60W$ USB C (PD) + A (QC 3.0)|
+| USB port         | 1   | [Link](https://aliexpress.com/item/1005004550370249.html) | $\sim 7$  | 60W USB C (PD) + A (QC 3.0)|
 
 __Total price__ : $\ \sim 25.5\ €$
 
