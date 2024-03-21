@@ -24,7 +24,7 @@ I also suggest using connectors such as :
 - [Type 1](https://aliexpress.com/item/1005005196465737.html)
 - [Type 2](https://aliexpress.com/item/1005005283085015.html)    
 
-The type 2 will be especially usefull for connecting to the banana plugs and fuse holder.
+The type 2 will be especially usefull for connecting to the banana plugs and fuse holders.
 
 ## Schematics
 
@@ -68,7 +68,7 @@ Prepare the different cables. I used the type 2 connectors with a pair of pliers
 
 ![Connectors](Photos/Connectors_rs.jpg)
 
-To connect the display a recommend following the schematics. For this I soldered the wires together with the provided connectors. 
+To connect the display a recommand following the schematics I made. For this I soldered the wires together with the provided connectors. 
 If the wires are not the same as the one I used, please refer to the documentation of your display to avoid damaging it.
 Furthermore, I connected all the displays to the +5V as a main power supply as the +3.3V would not have been enough to power them.     
 To turn on the power supply, the green wire (POWER_ON/OFF) needs to be shorted to GND, hence the button.
